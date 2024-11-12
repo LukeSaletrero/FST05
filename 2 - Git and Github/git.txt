@@ -33,7 +33,7 @@ M - modified
 - commit
 git commit -m "description"
 
-- check log
+- check log of commits
 git log
 
 - check logs one line / check commit history
@@ -56,3 +56,8 @@ git merge [branch_name]
 
 - delete branch
 git branch -d [branch_name]
+
+- push to git hub
+git remote add origin https://github.com/LukeSaletrero/FST05.git
+git branch -M main
+git push -u origin main
