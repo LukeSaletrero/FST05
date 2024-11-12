@@ -46,7 +46,13 @@ clear
 git branch [branch_name]
 
 - check branches all
-git branch -A
+git branch -a
 
 - move to a different branch
 git checkout [branch_name]
+
+- merge branches (make sure you are in the master branch)
+git merge [branch_name]
+
+- delete branch
+git branch -d [branch_name]
