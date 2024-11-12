@@ -31,4 +31,7 @@ A - added
 M - modified
 
 - commit
-- git commit -m "description"
+git commit -m "description"
+
+- check log
+git log
