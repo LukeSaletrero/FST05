@@ -36,6 +36,6 @@ git commit -m "description"
 - check log
 git log
 
-- check logs one line
+- check logs one line / check commit history
 git log --oneline
 
