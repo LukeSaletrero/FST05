@@ -39,3 +39,14 @@ git log
 - check logs one line / check commit history
 git log --oneline
 
+- clear commands in git bash terminal
+clear
+
+- add branch
+git branch [branch_name]
+
+- check branches all
+git branch -A
+
+- move to a different branch
+git checkout [branch_name]
