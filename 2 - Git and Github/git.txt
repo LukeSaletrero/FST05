@@ -1,0 +1,34 @@
+- Check version of git
+git --version
+
+- Configure username
+git config user.name "luke saletrero"
+
+- Configure email
+git config user.email "lukesaletrero@gmail.com"
+
+- Check configure username
+git config user.name
+
+- Check email
+git config user.email
+
+- Initialize a Repository
+git init
+
+- Check status of Repository
+git status
+
+- Add a single file / directory to staging area
+git add [file_name/folder_name]
+
+- Add all to staging area
+git add .
+
+- Legends/Indicators
+U - untracked
+A - added
+M - modified
+
+- commit
+- git commit -m "description"
